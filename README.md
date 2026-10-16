@@ -174,7 +174,7 @@ It is not a substitute for professional medical diagnosis.
 
 ## 👨‍💻 Authors
 
-* Your Name
+* Meghana Reddy Pennapu
 
 ---
 
